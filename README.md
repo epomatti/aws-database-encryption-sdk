@@ -1,4 +1,4 @@
-# AWS Database Encryption SDk
+# AWS Database Encryption SDK
 
 Learning exercise for the AWS DBE SDK with DynamoDB.
 
