@@ -1,8 +1,8 @@
 # AWS Database Encryption SDK
 
-Learning exercise for the AWS DBE SDK with DynamoDB.
+Demo for the AWS DBE SDK with DynamoDB.
 
-Apply the infrastructure:
+Apply the infrastructure to create the DDB and KMS resources:
 
 ```sh
 terraform init
@@ -25,5 +25,5 @@ mvn clean install
 Execute the application:
 
 ```sh
-mvn exec:java"
+mvn exec:java
 ```
